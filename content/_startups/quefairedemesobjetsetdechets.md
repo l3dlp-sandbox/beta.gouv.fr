@@ -1,56 +1,62 @@
 ---
-title: Que faire de mes objets et déchets
-mission: Encourager le tri et la consommation responsable pour donner une nouvelle vie aux objets, éviter l'achat neuf et réduire les déchets
-sponsors:
-  - /organisations/ademe
-incubator: ademe
-link: https://quefairedemesdechets.ademe.fr/
-repository: https://github.com/incubateur-ademe/quefairedemesobjets
-contact: quefairedemesdechets@ademe.fr
-stats: false
-budget_url: https://quefairedemesdechets.ademe.fr/budget
-dashlord_url: https://dashlord.incubateur.ademe.fr/startup/longuevieauxobjets
-analyse_risques: true
 accessibility_status: partiellement conforme
+analyse_risques: true
+mon_service_securise: true
+budget_url: https://quefairedemesdechets.ademe.fr/budget
+contact: quefairedemesdechets@ademe.fr
+repository: https://github.com/incubateur-ademe/quefairedemesobjets
+link: https://quefairedemesdechets.ademe.fr/
+stats: false
+stats_url: https://quefairedemesdechets.ademe.fr/stats
+impact_url: https://quefairedemesdechets.ademe.fr/stats/matrice-impact/
+dashlord_url: https://dashlord.incubateur.ademe.fr/startup/longuevieauxobjets
 redirect_from:
+  - /startups/longuevieauxobjets
   - /startups/quefairedemesobjets
+thematiques:
+  - Écologie
 usertypes:
   - particulier
   - entreprise
   - collectivite-territoriale
   - association
-analyse_risques_url: https://github.com/incubateur-ademe/quefairedemesobjets/blob/main/SECURITY.md
-events:
-  - name: committee
-    date: 2023-11-14
-    comment: 1er comité d'investissement
-  - name: committee
-    date: 2024-05-30
-    comment: 2nd comité d'investissement
-  - name: committee
-    date: 2025-01-15
-    comment: 3ème comité d'investissement
-  - name: committee
-    date: 2025-06-10
-    comment: 4ème comité d'investissement
-  - name: committee
-    date: 2026-05-22
-    comment: 5ème comité d'investissement
-phases:
-  - name: investigation
-    start: 2023-01-01
-  - name: construction
-    start: 2023-06-01
-  - name: acceleration
-    start: 2025-05-05
-thematiques:
-  - Écologie
-stats_url: https://quefairedemesdechets.ademe.fr/stats
 techno:
   - python
   - django
-mon_service_securise: true
-impact_url: https://quefairedemesdechets.ademe.fr/stats/matrice-impact/
+title: Que faire de mes objets et déchets
+mission: Encourager le tri et la consommation responsable pour donner une nouvelle vie aux objets, éviter l'achat neuf et réduire les déchets
+incubator: ademe
+sponsors:
+  - /organisations/ademe
+phases:
+  - name: investigation
+    comment: null
+    start: 2023-01-01
+    end: null
+  - name: construction
+    comment: null
+    start: 2023-06-01
+    end: null
+  - name: acceleration
+    comment: null
+    start: 2025-05-05
+    end: null
+events:
+  - name: committee
+    comment: 1er comité d'investissement
+    date: 2023-11-14
+  - name: committee
+    comment: 2nd comité d'investissement
+    date: 2024-05-30
+  - name: committee
+    comment: 3ème comité d'investissement
+    date: 2025-01-15
+  - name: committee
+    comment: 4ème comité d'investissement
+    date: 2025-06-10
+  - name: committee
+    comment: 5ème comité d'investissement
+    date: 2026-05-22
 ---
 ## Contexte 👀
 
